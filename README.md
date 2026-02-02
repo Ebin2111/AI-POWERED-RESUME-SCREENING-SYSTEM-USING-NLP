@@ -4,9 +4,13 @@ Developed an AI-powered resume screening system using NLP to analyze resumes aga
 **Key Features**
 
 *Automated extraction and preprocessing of unstructured resume text
+
 *Skill and keyword extraction using NLP techniques
+
 *Resume-to-job description matching using vector embeddings
+
 *Candidate ranking based on cosine similarity scores
+
 *Visualization of top-ranked candidates for easy interpretation
 
 **Methodology**
