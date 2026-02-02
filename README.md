@@ -20,8 +20,11 @@ The system preprocesses resumes by cleaning and normalizing text data, followed 
 **Tech Stack**
 
 *Programming Language: Python
+
 *Libraries & Tools: NLP, Machine Learning, Cosine Similarity
+
 *Data Processing: Text preprocessing and feature extraction
+
 *Visualization: Matplotlib
 
 **Output**
